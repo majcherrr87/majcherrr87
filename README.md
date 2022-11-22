@@ -1,5 +1,5 @@
 # Hi 👋, Adrian Majcher
-![Adrian Majcher](https://github.com/majcherrr87/majcherrr87/blob/main/AdrianMajcherBaner.png)
+![Adrian Majcher](https://github.com/majcherrr87/majcherrr87/blob/main/AdrianMajcherBaner3.png)
 
 I am a novice Javascript developer specializing in backend. I am ready to take on new challenges.
 

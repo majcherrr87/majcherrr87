@@ -1,4 +1,4 @@
-# Hi there 👋, Adrian Majcher
+# Hi 👋, Adrian Majcher
 ![Adrian Majcher](https://github.com/majcherrr87/majcherrr87/blob/main/AdrianMajcherBaner.png)
 
 I am a novice Javascript developer specializing in backend. I am ready to take on new challenges.

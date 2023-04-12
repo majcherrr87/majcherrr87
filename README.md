@@ -1,6 +1,15 @@
 # Hi 👋, Adrian Majcher
 ![Adrian Majcher](https://github.com/majcherrr87/majcherrr87/blob/main/AdrianMajcherBaner3.png)
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Im aspiring software developer and i like to explore new technologies.
+- 🎓 &nbsp; Learning JavaScript and most useful things which are used to buid complete applications.
+- 💼 &nbsp; I like most backend and I feel pretty confident there, but i try to solve all kind of problem during coding process.
+- 🌱 &nbsp; Im doing my best to code and learn new things.
+- ✍️ &nbsp; Im on complete JS course (JS, node, express, mysql, mongoDb, TypeScript, React, NestJs) and write projects on my own too.
+- And of course Im still in process learning, new projects, new additional courses, just to extend my skills and be valuable to potential employers. 
+
 I am a novice Javascript developer specializing in backend. I am ready to take on new challenges.
 
 ## 🌐 Socials:

@@ -10,7 +10,6 @@
 - ✍️ &nbsp; Im on complete JS course (JS, node, express, mysql, mongoDb, TypeScript, React, NestJs) and write projects on my own too.
 - And of course Im still in process learning, new projects, new additional courses, just to extend my skills and be valuable to potential employers. 
 
-I am a novice Javascript developer specializing in backend. I am ready to take on new challenges.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adrian.majcher.568/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-majcher-46a529163/) 
